@@ -1,6 +1,6 @@
 Summary of PD Time
 
-My personal development time has bassically been split into two diffrent sections during the course of the week. I spent some time revising the contents of the bootcamp and tackle the areas i am struggling with,I also spend some time covering areas of interest and get a wider knowledge of what it means to be a tester. Below is a list of the contents i have covered so far.
+My personal development time has bassically been split into two diffrent sections during the course of the week. I spent some time revising the contents of the bootcamp and tackle the areas i am struggling with,I also spent some time covering areas of interest and get a wider knowledge of what it means to be a tester. Below is a list of the contents i have covered so far.
 1. Spending time practicing the commands line interface using gitbash
 2. Practicing creating classes and functions in javascript and testing with jest
 3. Going through the jest documentation.
